@@ -31,30 +31,117 @@ var jane = 95;
 var peter = 56;
 var john = 45;
 
+
 // imran result
 if (imran >= 80) {
-    console.log("${myName} got A");
+    console.log("${myName} Grade: A");
 }
 
 else if (imran >= 60) {
-    console.log("${myName} got B");
+    console.log("${myName} Grade: B");
 }
 
 else if (imran >= 50) {
-    console.log("${myName} got C");
+    console.log("${myName} Grade: C");
 }
 
 else if (imran >= 40) {
-    console.log("${myName} got D");
+    console.log("${myName} Grade: D");
 }
 
 else if (imran >= 39) {
-    console.log("${myName} got F");
+    console.log("${myName} Grade: F");
 }
 
 
+// tom result
+if (tom >= 80) {
+    console.log("${tomName} Grade: A");
+}
+
+else if (tom >= 60) {
+    console.log("${tomName} Grade: B");
+}
+
+else if (tom >= 50) {
+    console.log("${tomName} Grade: C");
+}
+
+else if (tom >= 40) {
+    console.log("${tomName} Grade: D");
+}
+
+else if (tom >= 39) {
+    console.log("${tomName} Grade: F");
+}
 
 
+// jane result
+if (tom >= 80) {
+    console.log("${janeName} Grade: A");
+}
+
+else if (tom >= 60) {
+    console.log("${janeName} Grade: B");
+}
+
+else if (tom >= 50) {
+    console.log("${janeName} Grade: C");
+}
+
+else if (tom >= 40) {
+    console.log("${janeName} Grade: D");
+}
+
+else if (tom >= 39) {
+    console.log("${janeName} Grade: F");
+}
+
+
+// peter result
+if (tom >= 80) {
+    console.log("${peterName} Grade: A");
+}
+
+else if (tom >= 60) {
+    console.log("${peterName} Grade: B");
+}
+
+else if (tom >= 50) {
+    console.log("${peterName} Grade: C");
+}
+
+else if (tom >= 40) {
+    console.log("${peterName} Grade: D");
+}
+
+else if (tom >= 39) {
+    console.log("${peterName} Grade: F");
+}
+
+// john result
+if (tom >= 80) {
+    console.log("${johnName} Grade: A");
+}
+
+else if (tom >= 60) {
+    console.log("${johnNamee} Grade: B");
+}
+
+else if (tom >= 50) {
+    console.log("${johnName} Grade: C");
+}
+
+else if (tom >= 40) {
+    console.log("${johnName} Grade: D");
+}
+
+else if (tom >= 39) {
+    console.log("${johnName} Grade: F");
+}
+
+
+// practice problem 3
 
 
 
