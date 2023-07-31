@@ -21,14 +21,15 @@ var totalMarks = (mathematics + biology + chemistry + physics + bangla);
 console.log(totalMarks);
 
 var averageMarks = (totalMarks / 5);
-averageInDecimal = averageMarks.toFixed(2)
+averageMarks = averageMarks.toFixed(2)
 console.log(averageMarks);
 
 
 // practice problem 3
 var firstLine = "I am going to be";
 var secondLine = "an awesome web developer";
-console.log(firstLine + " " + secondLine);
+var finalLine = firstLine + " " + secondLine;
+console.log(finalLine);
 
 
 
