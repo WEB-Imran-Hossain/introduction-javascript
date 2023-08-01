@@ -2,14 +2,17 @@
 var fruits = ["Apple", "Banana", "Orange"];
 
 // find the index banana
-var element = fruits [1];
-// replace with mango
-fruits [1] = "Mango"
+var bananaIndex = fruits.indexOf ("Banana");
+console.log(bananaIndex);
+// replace banana with mango
+if(bananaIndex !== -1) {
+    fruits[bananaIndex] = "Mango";
+}
 console.log(fruits);
 
 // remove orange and added watermelon
-var element = fruits [2];
-fruits [2] = "Watermelon";
+fruits.pop("Orange");
+fruits.push("Watermelon");
 console.log(fruits);
 
 
