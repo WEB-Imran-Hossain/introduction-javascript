@@ -1,9 +1,9 @@
 // while loop means same work repeat and repeat
 
 // while loop syntax
-while (expression) {
-  //    statement
-}
+// while (expression) {
+//   //    statement
+// }
 
 var roastGiven = 0;
 while (roastGiven < 7) {
@@ -17,10 +17,11 @@ while (roastGiven < 7) {
 }
 console.log(roastGiven);
 
+
 // 2nd time try
 var roastGiven = 0;
 while(roastGiven < 7) {
-  console.log("Roast Dan");
+  console.log('Roast Dan, Please !!')
   console.log(roastGiven);
   roastGiven++;
 }
